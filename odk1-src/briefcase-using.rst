@@ -6,6 +6,8 @@ Using ODK Briefcase
 Pulling forms from Aggregate
 ----------------------------
 
+Cocotero
+
 To download blank forms and completed form instances from an :doc:`Aggregate <aggregate-intro>` server:
 
 #. Open the :guilabel:`Pull` tab.
